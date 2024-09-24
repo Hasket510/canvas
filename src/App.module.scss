@@ -1,0 +1,24 @@
+body {
+	margin: 0;
+	font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	background: repeating-linear-gradient(
+		45deg,
+		#e6f3ff 0px,
+		#e6f3ff calc(25% + 0px),
+		#b3daff calc(25% + 0px),
+		#b3daff calc(50% + 0px),
+		#a1b9ff calc(50% + 0px),
+		#a1b9ff calc(75% + 0px),
+		#e6f3ff calc(75% + 0px),
+		#e6f3ff 100%
+	);
+}
+
+.app {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
