@@ -4,4 +4,4 @@ Canvas
 
 ## Deploy
 
-https://hasket510.github.io/Canvas/
+https://hasket510.github.io/canvas/
